@@ -1,0 +1,1 @@
+Select * from CoreBB.dbo.[User]
